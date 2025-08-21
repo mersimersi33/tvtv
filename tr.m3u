@@ -16,10 +16,10 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png",Haber Global
-http://185.234.111.229:8000/play/a05x
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Habert「rk TV
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_480p.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Habertﾂ「rk TV
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png",T「rkHaber
+#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png",Tﾂ「rkHaber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
@@ -28,13 +28,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_360p.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",A2TV
 https://trkvz.daioncdn.net/a2tv/a2tv_360p.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
-http://185.234.111.229:8000/play/a019  
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png",ATV Avrupa
-http://185.234.111.229:8000/play/a018 
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
-http://185.234.111.229:8000/play/a01w
-#EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.imgur.com/kb165Ot.png",EuroStar
-http://185.234.111.229:8000/play/a01h
+http://185.234.111.229:8000/play/a019
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png",NTV
@@ -57,8 +51,6 @@ https://trt.daioncdn.net/trt-1/master_480p.m3u8?&sid=7oi1y9xlra6g&app=ed3904e8-7
 http://185.234.111.229:8000/play/a00f
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
-http://185.234.111.229:8000/play/a00h
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="https://i.imgur.com/wdWR7Qk.png",ulke TV
 https://cdn401.canlitv.me/ulketv.m3u8?tkn=1OFuvteG6EOYA_mifCrsGA&tms=1755801387&hst=www.canlitv.me&ip=37.130.75.247
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png",Power Turk
@@ -73,3 +65,4 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
