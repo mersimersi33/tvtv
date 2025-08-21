@@ -26,7 +26,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360_360p.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",A2TV
-https://trkvz.daioncdn.net/a2tv/a2tv_360p.m3u8
+https://trkvz.daioncdn.net/a2tv/a2tv_720p.m3u8?e=1755844503&st=xvny-fKkn1jzkkxp5jEuVw&sid=7oifnw0spapo&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
 http://185.234.111.229:8000/play/a019
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV
@@ -65,5 +65,6 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
 
 
