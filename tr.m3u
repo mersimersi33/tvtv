@@ -38,11 +38,11 @@ https://cdn900.canlitv.me/showmax.m3u8?tkn=FvV-0Iai9cwEAQTEPVgtig&tms=1755802653
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png",Show Turk
 https://cdn402.canlitv.me/showturk.m3u8?tkn=Pp5tw0K7c-ZHpvK0o5v3xA&tms=1755802742&hst=www.canlitv.me&ip=37.130.75.247
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png",Sozcu TV
-https://cdn900.canlitv.me/sozcutv.m3u8?tkn=x0kiAUiug-RKT21INcGTvA&tms=1755804097&hst=www.canlitv.me&ip=37.130.75.247
+https://cdn900.canlitv.me/sozcutv.m3u8
 #EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",Tele 1
-https://cdn405.canlitv.me/tele1.m3u8?tkn=76Go31088k-WPuGVNkRREg&tms=1755804308&hst=www.canlitv.me&ip=37.130.75.247https://cdn405.canlitv.me/tele1.m3u8?tkn=76Go31088k-WPuGVNkRREg&tms=1755804308&hst=www.canlitv.me&ip=37.130.75.247
+https://cdn404.canlitvme.com/tele1.m3u8?tkn=W3dhGgcr_Pk6OhC3TZGdHw&tms=1755912914&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",TRT 1
@@ -52,7 +52,7 @@ http://185.234.111.229:8000/play/a00f
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="https://i.imgur.com/wdWR7Qk.png",ulke TV
-https://cdn401.canlitv.me/ulketv.m3u8?tkn=1OFuvteG6EOYA_mifCrsGA&tms=1755801387&hst=www.canlitv.me&ip=37.130.75.247
+https://cdn402.canlitvme.com/ulketv.m3u8?tkn=VzH1H6W6gUiIpgVPcja_Rw&tms=1755912813&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png",Power Turk Akustik
@@ -61,10 +61,9 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png",Power Turk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
 
 
 
