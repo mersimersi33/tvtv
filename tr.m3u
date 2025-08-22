@@ -34,13 +34,11 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://i.imgur.com/456FWA7.png",Show Max
-https://cdn900.canlitv.me/showmax.m3u8?tkn=FvV-0Iai9cwEAQTEPVgtig&tms=1755802653&hst=www.canlitv.me&ip=37.130.75.247
+https://cdn900.canlitvme.com/showmax.m3u8?tkn=6t1WeByw0BIzaHh3khhveQ&tms=1755914066&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png",Show Turk
-https://cdn402.canlitv.me/showturk.m3u8?tkn=Pp5tw0K7c-ZHpvK0o5v3xA&tms=1755802742&hst=www.canlitv.me&ip=37.130.75.247
+https://cdn405.canlitvme.com/showtv.m3u8?tkn=8Ilau6NrcrapUvTRe8mk0g&tms=1755914152&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png",Sozcu TV
-https://cdn900.canlitv.me/sozcutv.m3u8
-#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+https://cdn900.canlitvme.com/sozcutv.m3u8?tkn=FVh0BW4bcpLluBAfPdPo-A&tms=1755913514&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",Tele 1
 https://cdn404.canlitvme.com/tele1.m3u8?tkn=W3dhGgcr_Pk6OhC3TZGdHw&tms=1755912914&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2
@@ -63,6 +61,7 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
 
 
 
