@@ -38,7 +38,7 @@ https://cdn900.canlitvme.com/showmax.m3u8?tkn=6t1WeByw0BIzaHh3khhveQ&tms=1755914
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png",Show Turk
 https://cdn405.canlitvme.com/showtv.m3u8?tkn=8Ilau6NrcrapUvTRe8mk0g&tms=1755914152&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png",Sozcu TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p/index.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2
@@ -61,4 +61,5 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
 
