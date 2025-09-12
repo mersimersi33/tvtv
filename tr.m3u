@@ -40,7 +40,7 @@ https://cdn405.canlitvme.com/showtv.m3u8?tkn=8Ilau6NrcrapUvTRe8mk0g&tms=17559141
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png",Sozcu TV
 https://cdn900.canlitvme.com/sozcutv.m3u8?tkn=FVh0BW4bcpLluBAfPdPo-A&tms=1755913514&hst=tv.canlitvme.com&ip=37.130.75.247
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",Tele 1
-https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",TRT 1
@@ -61,13 +61,3 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
